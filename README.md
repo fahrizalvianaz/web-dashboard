@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # dashboard-project
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -33,3 +34,6 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# web-dashboard
+>>>>>>> 6a23480729a3979050464899a3ffae2cf830993b
